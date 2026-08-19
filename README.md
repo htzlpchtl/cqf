@@ -1,4 +1,4 @@
-# CQF
+# cqf
 
 Project work for the Certificate in Quantitative Finance qualification
 
